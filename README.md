@@ -24,7 +24,8 @@ Students will:
 
 ### 🌐 Streamlit Web App
 - [`app.py`](./app.py)  
-  → Minimal UI to test prompt filtering using Streamlit  
+  → Minimal UI to test prompt filtering using Streamlit  (pip3 install streamlit
+)
 - Run with:
   ```bash
   streamlit run app.py
